@@ -3,6 +3,8 @@ I consider myself a persistent, hardworking and adaptable person. I'm currently 
 
 "Something is only impossible until someone doubts and proves otherwise."
 
+![flutter dash](https://github.com/ViniPortoDev/ViniPortoDev/blob/main/giphy.gif)
+
 # technologies
 Flutter/Dart
 Firebase, Flutter web, insominia
