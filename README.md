@@ -5,7 +5,6 @@ I consider myself a persistent, hardworking and adaptable person. I'm currently 
 
 
 ![flutter dash](https://github.com/ViniPortoDev/ViniPortoDev/blob/main/giphy.gif)
-
 # technologies
 Flutter/Dart
 Firebase, Flutter web, insominia
