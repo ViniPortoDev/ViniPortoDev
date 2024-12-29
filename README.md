@@ -11,6 +11,7 @@
 - Passionate with the mobile world
 - Flutterando and FlutterPiaui community member
 
+### Contributions:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ViniPortoDev)](https://git.io/streak-stats)
 
 ### Languages:
@@ -19,7 +20,4 @@
 ### Project in progress:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ViniPortoDev&repo=clean_nest)](https://github.com/ViniPortoDev/clean_nest.git)
 
-
-
-
-
+For more information, get in touch using the links above, I'll respond as quickly as possible.
